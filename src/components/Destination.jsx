@@ -17,7 +17,8 @@ function Destination() {
    <div className='uppercase font-semibold md:text-3xl text-xl text-center mt-8'>Destinations in Maharashtra</div>
    <div className='md:grid md:grid-cols-3 gap-4 flex flex-col  md:mx-20 md:my-10 m-5 '>
         {/* img1 */}
-            <div className=" h-[243px] w-[324px]  bg-cover bg-center opacity-50 hover:opacity-100 rounded-xl " style={{ backgroundImage: "url('kolhapur1.jpg') " }}>
+            <div className=" h-[243px] w-[324px]  bg-cover bg-center opacity-50 hover:opacity-100 rounded-xl " 
+              style={{ backgroundImage: "url('kolhapur1.jpg') " }}>
                     <div className=' flex flex-col justify-center items-center  ' >
                         <p className='text-white text-4xl mt-32 font-extrabold hover:text-orange-600  duration-100 cursor-pointer'>Kolhapur</p>
                         <p className='text-white text-2xl  font-extrabold hover:text-orange-600  duration-100 cursor-pointer'>15+ Destinatins</p>
@@ -33,7 +34,8 @@ function Destination() {
                 </div>
 
                 {/* img3 */}
-            <div className=" h-[243px] w-[324px]  bg-cover bg-center opacity-50 hover:opacity-100 rounded-xl " style={{ backgroundImage: "url('sangli.jpg') " }}>
+            <div className=" h-[243px] w-[324px]  bg-cover bg-center opacity-50 hover:opacity-100 rounded-xl "
+              style={{ backgroundImage: "url('sangli.jpg') " }}>
                     <div className=' flex flex-col justify-center items-center  ' >
                         <p className='text-white text-4xl mt-32 font-extrabold hover:text-orange-600  duration-100 cursor-pointer'>Sangli</p>
                         <p className='text-white text-2xl  font-extrabold hover:text-orange-600  duration-100 cursor-pointer'>15+ Destinatins</p>
@@ -41,7 +43,8 @@ function Destination() {
                 </div>
 
                 {/* img4 */}
-            <div className=" h-[243px] w-[324px]  bg-cover bg-center opacity-50 hover:opacity-100 rounded-xl " style={{ backgroundImage: "url('satara1.jpg') " }}>
+            <div className=" h-[243px] w-[324px]  bg-cover bg-center opacity-50 hover:opacity-100 rounded-xl "
+              style={{ backgroundImage: "url('satara1.jpg') " }}>
                     <div className=' flex flex-col justify-center items-center  ' >
                         <p className='text-white text-4xl mt-32 font-extrabold hover:text-orange-600  duration-100 cursor-pointer'>Satara</p>
                         <p className='text-white text-2xl  font-extrabold hover:text-orange-600  duration-100 cursor-pointer'>15+ Destinatins</p>
