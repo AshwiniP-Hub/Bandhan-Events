@@ -14,7 +14,7 @@ const Home = () => {
         <p className='text-center font-semibold text-3xl mt-8 uppercase  '>Events Planning and Management</p>
 
         <div class="flex justify-center items-center text-center ">
-          <div class="bg-gray-200 mx-4 p-4 md:p-12 md:text-xl mt-4  shadow-xl md:mt-8 md:mx-60">
+          <div className="bg-gray-200 mx-4 p-4 md:p-12 md:text-xl mt-4  shadow-xl md:mt-8 md:mx-60">
             Welcome to <span className='font-semibold '>Bandhan Events</span> , where we transform your events into unforgettable experiences.
             With a passion for creativity and a commitment to excellence, we specialize in crafting tailor-made events that exceed expectations.
             Our team of experienced professionals brings expertise in every aspect of event management, from concept development to flawless execution. We perform all <span className='font-semibold'>rituals as per Hindu tradition.</span>
